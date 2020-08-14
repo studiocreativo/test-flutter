@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "276491513770",
+    "firebase_url": "https://test-ded30.firebaseio.com",
+    "project_id": "test-ded30",
+    "storage_bucket": "test-ded30.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:276491513770:android:1d729307947e94f424c5d3",
+        "android_client_info": {
+          "package_name": "com.example.miguelon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "276491513770-ku7gboa5boppd5sob5ngihts4mcue6nl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.miguelon",
+            "certificate_hash": "0661d600ab967a286a3105e33f14345ee88bd153"
+          }
+        },
+        {
+          "client_id": "276491513770-b453saa5pqt6po4089pd7vju6cmfats2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn11rIZXww01qdqD397gq0xSVN4Q0AvMY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "276491513770-b453saa5pqt6po4089pd7vju6cmfats2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
